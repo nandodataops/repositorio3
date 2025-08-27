@@ -11,7 +11,8 @@ public class Aritmetica {
         numero1=lectura.nextDouble();
         System.out.println("Ingresa el numero 2: ");
         numero2=lectura.nextDouble();
-        System.out.println("Resultados de la aplicacion");        
+        System.out.println("Resultados de la aplicacion");       
+        System.out.println("Resultados de la aplicacion 2");  
         //proceso de datpos
         suma=numero1+numero2;
         promedio=suma/2;
